@@ -1,0 +1,9 @@
+name: StockDataAnalysis
+account: gusto
+server: shinyapps.io
+appId: 97053
+bundleId: 430172
+url: https://gusto.shinyapps.io/StockDataAnalysis/
+when: 1461368145.49073
+asMultiple: FALSE
+asStatic: FALSE
